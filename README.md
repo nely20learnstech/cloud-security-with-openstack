@@ -65,6 +65,7 @@ This repository is also tailored for security-focused setups. We aim to:
 - Ubuntu-based OS (20.04 or newer recommended)  
 - At least 8 GB RAM and 2 CPUs (for this projects, we used 4GB and 4 CPUs)
 - Git and Python3 installed (make sure to update your Python to avoid dependency and other issues)
+- Make sure that the user 'stack' obtains the necessary priviledges
 - Internet connection for package installation  
 
 ## 💬 Community & Support
